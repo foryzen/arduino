@@ -274,3 +274,5 @@ void setup() {
   tone(speaker,oto[54+pitch]);  delay(speed*0.125);  noTone(speaker);
   tone(speaker,oto[56+pitch]);  delay(speed*1.000);  noTone(speaker);
 }
+
+void loop() {}
